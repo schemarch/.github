@@ -42,3 +42,9 @@ The ScheMarch organization hosts the platform and supporting clients, SDKs, and 
 [Discord](https://discord.gg/KwMRPGttQ) · [Bluesky](https://bsky.app/profile/schemarch.bsky.social) · [YouTube](https://www.youtube.com/@ScheMarch) · [LinkedIn group](https://www.linkedin.com/groups/40168000/)
 
 ScheMarch is part of the [Noir Stack](https://noirstack.com) ecosystem.
+
+## Copyright and commercial distribution
+
+© 2026 Hira Barton. All rights reserved. ScheMarch is owned by Hira Barton and commercially licensed and distributed by Noir Stack LLC.
+
+[Application ownership and commercial distribution notice](https://github.com/schemarch/.github/blob/main/APPLICATION-LICENSE.txt)
