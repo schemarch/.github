@@ -1,0 +1,126 @@
+{
+  "source_repository": "NoirStackLLC/brand-kit",
+  "source_ref": "a667b4c59ec9c26a17ae88f8fbbd72f2252e5c2c",
+  "assets": [
+    {
+      "source_path": "brands/schemarch/originals/logo_dark.png",
+      "sha": "708105fe0bf49d7c0454a30844526e80cca81316",
+      "bytes": 84909,
+      "copied": false
+    },
+    {
+      "source_path": "brands/schemarch/originals/logo_light.png",
+      "sha": "f796b7ba39ab737fe153e4aab2ee3dbc49af22ea",
+      "bytes": 86665,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/Schemarch Data Intelligence Brand Collage.png",
+      "sha": "ee734ef529d05b014b87567e979128c6bd62ab7f",
+      "bytes": 1808220,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch-social-card -.jpg",
+      "sha": "0edeb27c0cbec671db168c5df4877f7dfc1aaaee",
+      "bytes": 1123362,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch-social-card.png",
+      "sha": "0edeb27c0cbec671db168c5df4877f7dfc1aaaee",
+      "bytes": 1123362,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_logo_pack.zip",
+      "sha": "d30d948c4c65353974e4fdcc58e827205c6b8476",
+      "bytes": 924877,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_logo_pack/schemarch-dark.png",
+      "sha": "15ab680373f1e3d5c02fe644d37dc4756613078f",
+      "bytes": 375192,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_logo_pack/schemarch-light.png",
+      "sha": "199d1e017b842c93a0de8f4d2ad3ac88183e9723",
+      "bytes": 320887,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_logo_pack/schemarch-transparent.png",
+      "sha": "970464ce72239177671d8aeb1329d9dbb5f528ce",
+      "bytes": 228169,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards.zip",
+      "sha": "2691c2d56e09133283d438449f9c79ccfa4d9b3f",
+      "bytes": 1553627,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/catalog_dashboard.png",
+      "sha": "6b0e9a8ea79bb2e46e0ba9fdb55114da690ee6a1",
+      "bytes": 174625,
+      "copied": true
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/discover_your_data.png",
+      "sha": "f6115e5b5525f6f89b474c4c0e0dfb0e25352570",
+      "bytes": 174120,
+      "copied": true
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/from_data_to_understanding.png",
+      "sha": "3ea5f1f512b5c1de3341a8837fbb26cac5a6673a",
+      "bytes": 178413,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/future_ready.png",
+      "sha": "7ceb61ba693c1ee7359ddfdee4b07dfce46b6cc5",
+      "bytes": 110092,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/governed_data.png",
+      "sha": "594780fbba2a1873cc32e09914cfb6017807ba40",
+      "bytes": 156035,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/hero_structure_intelligence.png",
+      "sha": "1960c101b833a497c71d836db34ae1093a858c82",
+      "bytes": 335222,
+      "copied": true
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/logo_dark.png",
+      "sha": "708105fe0bf49d7c0454a30844526e80cca81316",
+      "bytes": 84909,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/logo_light.png",
+      "sha": "f796b7ba39ab737fe153e4aab2ee3dbc49af22ea",
+      "bytes": 86665,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/modern_data_teams.png",
+      "sha": "b0d19a7cb5a603c11c24549fd183234228ca05b8",
+      "bytes": 120070,
+      "copied": false
+    },
+    {
+      "source_path": "schemarch/schemarch_social_cards/strategic_advantage.png",
+      "sha": "8775bc65567706e77f7b0775fe51d009766eb866",
+      "bytes": 131778,
+      "copied": false
+    }
+  ]
+}

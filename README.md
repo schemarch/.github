@@ -43,6 +43,14 @@ The ScheMarch organization hosts the platform and supporting clients, SDKs, and 
 
 ScheMarch is part of the [Noir Stack](https://noirstack.com) ecosystem.
 
+## ScheMarch artwork
+
+![catalog dashboard](https://raw.githubusercontent.com/schemarch/.github/main/assets/brand-kit/schemarch/schemarch_social_cards/catalog_dashboard.png)
+
+![discover your data](https://raw.githubusercontent.com/schemarch/.github/main/assets/brand-kit/schemarch/schemarch_social_cards/discover_your_data.png)
+
+[Browse brand assets](https://github.com/schemarch/.github/blob/main/assets/brand-kit/README.md)
+
 ## Copyright and commercial distribution
 
 © 2026 Hira Barton. All rights reserved. ScheMarch is owned by Hira Barton and commercially licensed and distributed by Noir Stack LLC.
